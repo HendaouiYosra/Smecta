@@ -5,9 +5,9 @@ section de questions où les utilisateurs doivent répondre de manière délibé
 gens connaissent des réponses fausses, mais où la réponse qu'ils pensent fausse semble correcte ; des quiz ; des actualités concernant les événements liés au sujet. 
 ; des informations méconnues destinées à rectifier les idées erronées répandues chez la majorité, mais au contraire.**
 
-![](ezgif.com-video-to-gif)
+![](https://github.com/HendaouiYosra/Smecta/blob/main/ezgif.com-video-to-gif%20.gif)
 
-![](ezgif.com-video-to-gif (1))
-![](ezgif.com-video-to-gif (2))
-![](ezgif.com-video-to-gif (3))
+![](https://github.com/HendaouiYosra/Smecta/blob/main/ezgif.com-video-to-gif%20(1).gif)
+![](https://github.com/HendaouiYosra/Smecta/blob/main/ezgif.com-video-to-gif%20(2).gif)
+![](https://github.com/HendaouiYosra/Smecta/blob/main/ezgif.com-video-to-gif%20(3).gif)
 
